@@ -3,3 +3,6 @@
 # Our code
 
 print("Hello World")
+
+
+print("Merging and branching")
